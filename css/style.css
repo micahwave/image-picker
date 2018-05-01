@@ -1,0 +1,8 @@
+.image-picker-preview img {
+	max-width: 150px;
+	margin-bottom: 10px;
+}
+
+.image-picker-buttons .button-primary {
+	margin-right: 10px;
+}
