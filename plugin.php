@@ -5,6 +5,7 @@
  * Author: Micah Ernst
  * Description: Allows developers to easily implement a field that lets users pick an image
  * Version: 0.1
+ * Author URI: https://micahernst.com
  */
 
 namespace WordPress\Plugins\ImagePicker;
